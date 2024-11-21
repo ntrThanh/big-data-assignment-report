@@ -1,0 +1,20 @@
+phác thảo những yêu cầu, nội dung làm powpoint
+- thuyết trình tối đa được 15p nên powpoint chỉ trong khoảng 25 - 30 slide
+- về nội dung thì có các ý chính như:
+	- phần Bigdata và ứng dụng của nó (Không cần quá chi tiết) 
+	- các thuật toán, công cụ để sử lý Bigdata (Không cần quá chi tiết)
+	
+	<Tiếp cận vấn đề, đặt câu hỏi> tại sao lại dùng spark 
+	phần spark  
+	- vắn tắt các định nghĩa, sự ra đời của nó
+	- kiến trúc của spark làm về định nghĩa, vai trò và cách khởi tạo (không cần chi tiết)
+		(dự tính mỗi một thành phần khoảng 2 slide nếu sáng tạo hơn thì nhét vào 1 slide cũng được)
+	- Thành phần và thư viện chính 
+		- tập trung nhiều vào spark core và spark sql (đi chi tiết vào spark sql một chút về nội dung)
+		- các thành phần còn lại thì chỉ nêu lên các điểm nổi bật của nó
+	- ứng dụng của spark 
+	phần so sánh spark với hadoop
+	- có thể tạo bảng để trực quan hơn
+
+
+

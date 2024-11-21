@@ -1,0 +1,15 @@
+Nội dung demo
+
+- làm về RDD, thực hành đếm số từ trong một văn bản, sử dụng các tranformation, ...
+	lấy khoảng 2 ví dụ 1 là làm về các tranformation đơn giản
+						2 là làm về đếm số từ lặp lại bằng RDD, có thể làm bằng java và PySpark 
+
+- làm về cơ sở dữ liệu northwind sử dụng 2 cách:
+	1 là sử dụng DataFrame
+	2 là sử dụng SparkSQL
+
+	làm về những câu hỏi sau:
+	a) lọc các đơn hàng của khách hàng từ một quốc gia cụ thể, tính tổng doanh thu của các đơn hàng theo khu vực, hoặc tìm các sản phẩm bán chạy nhất.
+	b) kết nối bảng Orders với bảng Customers để lấy thông tin khách hàng và đơn hàng.
+	c) Tính toán số lượng đơn hàng, tổng doanh thu của từng khách hàng, và xếp hạng khách hàng theo giá trị của họ.
+	d) Tạo các phân tích theo thời gian, như tính số lượng đơn hàng mỗi tháng, doanh thu hàng tháng, hoặc phân tích xu hướng mua hàng theo mùa.
